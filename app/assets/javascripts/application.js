@@ -14,3 +14,8 @@
 //= require jquery_ujs
 //= require activestorage
 //= require_tree .
+//= require paloma
+
+$(document).ready(function(){
+  Paloma.start();
+});
