@@ -1,24 +1,15 @@
-# README
+![Screenshot](screenshot.png)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# todo
 
-Things you may want to cover:
+A To-Do app 
 
-* Ruby version
+## Built With
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* [todo-mvc](http://todomvc.com)
+* Javascript
+ 
+## Features
+* Mobile-responsive
+* Leverages Javascript to dynamically add, edit, and toggle tasks
+* Uses RESTful JSON APIs from Rails
